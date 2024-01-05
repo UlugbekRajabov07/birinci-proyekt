@@ -1,0 +1,1021 @@
+body{
+    margin: 0;
+}
+.tjasurbek{
+    background-image: url('./img/section_one_bg.jpg');
+    height: 100vh;
+    width: 100%;
+}
+.jasurbek{
+    height: 20vh;
+    width: 100%;
+    display: flex;
+}
+.jasurbek0{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    margin-left: 20%;
+    color: white;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+hr{
+    margin-top: -60px;
+}
+.jasurbek1{
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35%;
+    margin-top: 200px;
+}
+.h3{
+    color: rgb(25, 25, 99);
+    font-size: 20px;
+    margin-left: 30%;
+    letter-spacing: 5px;
+}
+.div{
+    color: white;
+    margin-left: 650px;
+    font-size: 20px;
+    margin-top: 10%;
+}
+.svg{
+    height: 50px;
+    width: 50px;
+    margin-left: 45%;
+}
+.jasurbek2{
+    background-color: rgba(13, 117, 209, 0.9);
+    height: 100vh;
+    width: 100%;
+    margin-top: -20px;
+}
+.img{
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  border: 2px solid white;  
+  display: flex;
+  padding: 20px;
+  margin-top: 50%;
+}
+.jasurbek3{
+    display: flex;
+    gap: 300px;
+    margin-left: 100px;
+}
+.jasurbek4{
+    color: white;
+    margin-left: 550px;
+}
+.yozuv{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 150px;
+    position: relative;
+    z-index: 11;
+
+}
+.yozuv::after{
+    content: 'W';
+    position: absolute;
+    left: 15%;
+    color: rgba(0, 0, 0, 0.8);
+    top: 125px;
+    font-size: 100px;
+    z-index: -3;
+    font-weight: bold;
+    color: gray;
+}
+/* svg{ */
+    /* width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 2px solid white;
+    padding: 20px; */
+/* } */
+.jasurbek5{
+    display: flex;
+    margin-top: 100px;
+    gap: 150px;
+    margin-left: 150px;
+
+}
+.hgf{
+   font-size: 17px;
+   margin-left: -20px;
+   color: white;
+
+}
+.kjh{
+    width: 300px;
+    margin-left: -80px;
+    color: white;
+}
+.jasurbek6{
+    height: 50vh;
+    width: 100%;
+    background-color: black;
+}
+.divcha{
+    color: white;
+    padding-top: 50px;
+    margin-left: 120px;
+}
+.ttt{
+    width: 300px;
+}
+.lll{
+    margin-left: 50%;
+    margin-top: -320px;
+    height: 50vh;
+}
+.jasurbek7{
+    height: 50vh;
+    width: 100%;
+
+}
+.jjj{
+    height: 50vh;
+    width: 50%;
+}
+.divjon{
+    color: black;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+.jasurbek8{
+    height: 100vh;
+    width: 100%;
+}
+.bbb{
+    margin-left: 50%;
+    padding-top: 100px;
+    position: relative;
+    z-index: 15;
+}
+.bbb::after{
+    content: 'B';
+    position: absolute;
+    font-size: 100px;
+    margin-left: -15%;
+    color: gray;
+    top: 45%;
+    z-index: -5;
+}
+.iii{
+    margin-left: 41%;
+    margin-top: 5%;
+}
+.divbek{
+    display: flex;
+    margin-left: 100px;
+    gap: 75px;
+}
+.mmm{
+    color: blue;
+    font-size: 15px;
+}
+.jasurbek9{
+    height: 50vh;
+    width: 100%;
+    background-color: rgb(0, 128, 255);
+}
+.divoy{
+    display: flex;
+    margin-left: 30%;
+    padding-top: 10%;
+}
+.divxon{
+    display: flex;
+    width: 400px;
+    height: 100px;
+    color: white;
+}
+.jasurbek10{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./img/workplace.jpg);
+    margin-top: -1.5%;
+}
+.divb{
+    color: white;
+    width: 300px;
+    padding-top: 150px;
+    margin-left: 10%;
+}
+.btn1{
+    background-color: rgb(0, 128, 255);
+    color: white;
+    width: 300px;
+}
+.btn2{
+    background-color: rgb(0, 128, 255);
+    color: white;
+    width: 350px;
+    margin-top: 20px;
+}
+.btn3{
+    background-color: rgb(0, 128, 255);
+    color: white;
+    width: 370px;
+    margin-top: 20px;
+}
+.iph{
+    margin-left: 900px;
+    margin-top: -22%;
+}
+.jasurbek11{
+    height: 100vh;
+    width: 100%;
+}
+.after{
+    padding-top: 5%;
+    margin-left: 50%;
+    position: relative;
+    z-index: 10;
+}
+.after::after{
+    content: 'T';
+    position: absolute;
+    font-size: 100px;
+    color: gray;
+    left: 5%;
+    top: 20%;
+    z-index: -5;
+}
+.kju{
+    margin-left: 42%;
+    padding-top: 2%;
+}
+.buy{
+    display: flex;
+    gap: 50px;
+    margin-left: 10%;
+}
+.ism{
+    text-align: center;
+    margin-top: -4%;
+}
+.pol{
+    text-align: center;
+    margin-top: -4%;
+}
+.jasurbek12{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./img/workplace.jpg);
+}
+.oiu{
+    color: white;
+    padding-top: 10%;
+    margin-left: 35%;
+    position: relative;
+    z-index: 8;
+}
+.oiu::after{
+    content: 'C';
+    position: absolute;
+    font-size: 100px;
+    color: gray;
+    left: 20%;
+    top: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: -1;
+}
+.svg77{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 2px solid white;
+    padding: 20px;
+    display: flex;
+}
+.inputcha{
+   padding: 50px;
+   display: flex;
+   gap: 100px;
+   padding-top: 100px;
+   margin-left: 147px;
+   
+}
+.name, .family, .phone{
+    background-color: transparent;
+    border: 1px solid white;
+}
+.message{
+    width: 40%;
+    padding: 50px;
+    margin-left: 197px;
+    background-color: transparent;
+    border: 1px solid white;
+}
+.jasurbek13{
+    width: 100%;
+    height: 30vh;
+    background-image: url(./img/photo_2023-11-27_17-07-40.jpg);
+}
+@media (max-width:1000px) and (min-width: 900px){
+    .jasurbek0{
+        margin-left: 0;
+    }
+    .div{
+        margin-left: 50%;
+        margin-top: 5%;
+    }
+    .svg{
+        margin-left: 53%;
+    }
+    .yozuv{
+        margin-left: -70%;
+    }
+    .yozuv::after{
+        margin-left: 10%;
+    }
+    .jasurbek2{
+        height: 150vh;
+    }
+    .jasurbek5{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .divjon{
+        margin-left: 60%;
+    }
+    .rasmn{
+        margin-top: -1%;
+    }
+    .bbb{
+        margin-left: 50%;
+    }
+    .bbb::after{
+        margin-left: -23%;
+    }
+    .iii{
+        margin-left: 35%;
+    }
+    .divbek{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .divbek div{
+        width: 30%;
+    }
+    .jasurbek8{
+        height: 175vh;
+    }
+    .divxon{
+        margin-left: 0%;
+    }
+    .divoy{
+        display: flex;
+        margin-left: 0;
+        padding-top: 0;
+        align-items: center;
+        justify-content: space-around;
+        height: 100%;
+    }
+    .iph{
+        margin-top: -40%;
+        margin-left: 60%;
+    }
+    .buy{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .jasurbek11{
+        height: 175vh;
+    }    
+    .kju{
+        margin-left: 35%;
+    }
+    .oiu::after{
+        margin-top: -3%;
+        margin-left: 10%;
+        
+    }
+    .oiu{
+        margin-left: 25%;
+    }
+    .inputcha{
+        margin-left: 10%;
+    }
+    .message{
+        margin-left: 15%;
+    }
+
+}
+@media (max-width:900px) and (min-width:800px){
+    .jasurbek0{
+        margin-left: -1%;
+        gap: 30px;
+    }
+    .div{
+        margin-left: 50%;
+        margin-top: -1%;
+    }
+    .svg{
+        margin-left: 53%;
+    }
+    .h3{
+        margin-top: -5%;
+    }
+    .jasurbek5{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: -0.1%;
+        justify-content: center;
+    }
+    .yozuv{
+        margin-left: -110%;
+        margin-top: -10%;
+    }
+    .yozuv::after{
+        margin-left: 11%;
+    }
+    .jasurbek2{
+        height: 145vh;
+    }
+    .divjon{
+        margin-left: 60%;
+    }
+    .lll{
+        margin-bottom: 5%;
+    }
+    .divbek {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-left: 0;
+    }
+    .divbek div{
+        width: 30%;
+    
+    }
+    .jasurbek8{
+        height: 175vh;   
+    }
+    .bbb{
+        margin-left: 55%;
+    }
+    .bbb::after{
+        margin-left:-25%;
+    }
+    .divxon{
+        margin-left: 0%;
+        display: flex;
+        justify-content: space-between;
+        gap: 0%;
+    }
+    .iph{
+        margin-top: -40%;
+        margin-left: 60%;
+    }
+    .buy{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .jasurbek11{
+        height: 175vh;
+    }
+    .inputcha{
+        margin-left: 5%;
+    }
+    .oiu{
+        display: flex;
+        justify-content: center;
+        margin-left: -10%;
+    }
+    .oiu::after{
+        margin-left: 30%;
+        margin-top: -2%;
+    }
+    .massage{
+        margin-left: 20%;
+    }
+    .divoy{
+        margin-left: 0;
+    }
+}
+@media (max-width:800px) and (min-width:700px){
+    .jasurbek0{
+        margin-left: -2%;
+        gap: 5%;
+    }
+    .div{
+        margin-left: 50%;
+        margin-top: -1%;
+    }
+    .svg{
+        margin-left: 53%;
+    }
+    .jasurbek5{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: -1%;
+    }
+    .jasurbek2{
+        height: 250vh;
+    }
+    .jasurbek1{
+        margin-left: 25%;
+    }
+    .h3{
+        letter-spacing: 0;
+        margin-left: 30%;
+    }
+    .yozuv{
+        margin-left: -190%;
+    }
+    .yozuv::after{
+        margin-left: 10%;
+    }
+    .divjon{
+        margin-left: 60%;
+    }
+    .lll{
+        margin-bottom: 1%;
+    }
+    .divcha{
+        margin-left: 10%;
+    }
+    .divoy{
+        width: 90%;
+    }
+    .divbek{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .divbek div{
+        width: 30%;
+        margin-left: 0;
+    }
+    .divjon{
+        margin-left: 55%;
+    }
+    .jasurbek8{
+        height: 180vh;
+    }
+    .iii{
+        margin-left: 25%;
+    }
+    .bbb{
+        margin-left: 40%;
+    }
+    .bbb::after{
+        margin-left: -20%;
+    }
+    .divoy{
+        margin-left: 0;
+    }
+    .iph{
+        margin-top: -40%;
+        margin-left: 55%;
+    }
+    .buy{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .kju{
+        margin-left: 30%;
+    }
+    .jasurbek11{
+        height: 175vh;
+    }
+    .inputcha{
+        margin-left: -5%;
+        gap: 10%;
+    }
+    .message{
+        margin-left: 11%;
+    }
+    .oiu{
+        margin-left: 15%;
+    }
+    .oiu::after{
+        margin-top: -3%;
+        margin-left: 20%;
+    }
+}
+@media (max-width:700px) and (min-width:600px){
+    .jasurbek0{
+        margin-left: -5%;
+        gap: 3.5%;
+    }
+    .jasurbek1{
+        margin-left: 25%;
+    }
+    .h3{
+        letter-spacing: 0.5%;
+        margin-left: 15%;
+    }
+    .div{
+        margin-left: 50%;
+        margin-top: -1%;
+    }
+    .svg{
+        margin-left: 53%;
+    }
+    .jasurbek4{
+        margin-left: 0;
+    }
+    .jasurbek5{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1%;
+        margin-left: 17%;
+
+    }
+    .jasurbek2{
+        height: 200vh;
+    }
+    .yozuv{
+        margin-left: 0;
+        display: flex;
+        justify-content: center;
+    }
+    .btn1{
+        width: 200px;
+    }
+    .btn2{
+        width: 250px;
+    }
+    .btn3{
+        width: 300px;
+    }
+    .yozuv::after{
+        margin-left: 10%;
+    }
+    .ttt{
+        width: 100%;
+        margin-left: -10%;
+    }
+    .divjon{
+        margin-left: 60%;
+    }
+    .lll{
+        margin-top: -90%;
+    }
+    .divcha{
+        margin-left: 5%;
+        width: 45%;
+    }
+    .divbek{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .divbek div{
+        width: 30%;
+        margin-left: 0;
+    }
+    .jasurbek8{
+        height: 200vh;
+    }
+    .iii{
+        margin-left: 25%;
+    }
+    .bbb{
+        margin-left: 40%;
+    }
+    .bbb::after{
+        margin-left: -20%;
+    }
+    .divoy{
+        margin-left: 0;
+    }
+    .iph{
+        margin-top: -55%;
+        margin-left: 50%;
+    }
+    .divb{
+        margin-left: 1%;
+    }
+    .buy{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 5%;
+        width: 95%;
+    }
+    .kju{
+        margin-left: 30%;
+    }
+    .jasurbek11{
+        height: 175vh;
+    }
+    .inputcha{
+        margin-left: 0;
+        gap: 5%;
+    }
+    .message{
+        margin-left: 7%;
+    }
+    .oiu{
+        margin-left: 15%;
+    }
+    .oiu::after{
+        margin-top: -5%;
+        margin-left: 20%;
+    }
+}
+@media (max-width:600px) and (min-width:450px){
+    .jasurbek0{
+        gap: 1%;
+        margin-left: -8%;
+    }
+    .uli{
+        margin-left: -10%;
+    }
+    .jasurbek1{
+        margin-left: 1%;
+    }
+    .h3{
+        letter-spacing: 0;
+        margin-left: 7%;
+    }
+    .div{
+        margin-left: 40%;
+    }
+    .jasurbek5{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .jasurbek4{
+        margin-left: 0;
+    }
+    .yozuv{
+        margin-left: 5%;
+    }
+    .yozuv::after{
+        margin-left: 15%;
+    }
+    .jasurbek2{
+        height: 270vh;
+    }
+    .divcha{
+        margin-left: 1%;
+        width: 90%;
+    }
+    .divjon{
+        margin-left: 52%;
+        margin-top: -70%;
+        
+    }
+    .ttt{
+        width: 95%;
+    }
+    .lll{
+        margin-bottom: -8%;
+    }
+    .divcha{
+        margin-top: -10%;
+        
+    }
+    .jasurbek6{
+        
+        /* height: 100vh; */
+    }
+    .divbek{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .jasurbek8{
+        height: 340vh;
+        
+    }
+    .bbb{
+        margin-left: 30%;
+    }
+    .bbb::after{
+        margin-left: -30%;
+    }
+    .iii{
+        margin-left: 8%;
+    }
+    .divbek{
+        width: 50%;
+    }
+    .divoy{
+        width: 90%;
+        margin-left: 0%;
+    }
+    .divb{
+        width: 30%;
+        margin-bottom: -75%;
+    }
+    .btn1{
+        width: 90%;
+    }
+    .btn2{
+        width: 100%;
+    }
+    .btn3{
+        width: 100%;
+    }
+    .jasurbek10{
+        height: 110vh;
+    }
+    .iph{
+        margin-left: 37%;
+        margin-top: -35%;
+    }
+    .buy{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .jasurbek11{
+        height: 350vh;
+    }
+    .inputcha{
+        gap: 1%;
+        margin-left: -10%;
+    }
+    .name{
+        width: 100%;
+    }
+    .message{
+        margin-left: 10%;
+    }
+}
+@media (max-width:450px) and (min-width:350px){
+    .jasurbek0{
+        gap: 1%;
+        margin-left: -8%;
+    }
+    .uli{
+        margin-left: -10%;
+    }
+    .jasurbek1{
+        margin-left: 1%;
+    }
+    .h3{
+        letter-spacing: 0;
+        margin-left: 7%;
+    }
+    .div{
+        margin-left: 40%;
+    }
+    .jasurbek5{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .jasurbek4{
+        margin-left: 0;
+    }
+    .yozuv{
+        margin-left: 5%;
+    }
+    .yozuv::after{
+        margin-left: 15%;
+    }
+    .jasurbek2{
+        height: 270vh;
+    }
+    .divcha{
+        margin-left: 1%;
+        width: 90%;
+    }
+    .divjon{
+        margin-left: 52%;
+        margin-top: -70%;
+        
+    }
+    .ttt{
+        width: 95%;
+    }
+    .lll{
+        margin-bottom: -8%;
+    }
+    .divcha{
+        margin-top: -10%;
+        
+    }
+    .jasurbek6{
+        
+        /* height: 100vh; */
+    }
+    .divbek{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .jasurbek8{
+        height: 340vh;
+        
+    }
+    .bbb{
+        margin-left: 30%;
+    }
+    .bbb::after{
+        margin-left: -30%;
+    }
+    .iii{
+        margin-left: 8%;
+    }
+    .divbek{
+        width: 50%;
+    }
+    .divoy{
+        width: 90%;
+        margin-left: 0%;
+    }
+    .divb{
+        width: 30%;
+        margin-bottom: -75%;
+    }
+    .btn1{
+        width: 90%;
+    }
+    .btn2{
+        width: 100%;
+    }
+    .btn3{
+        width: 100%;
+    }
+    .jasurbek10{
+        height: 110vh;
+    }
+    .iph{
+        margin-left: 37%;
+        margin-top: -35%;
+    }
+    .buy{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .jasurbek11{
+        height: 350vh;
+    }
+    .inputcha{
+        gap: 1%;
+        margin-left: -10%;
+    }
+    .name{
+        width: 100%;
+    }
+    .message{
+        margin-left: 10%;
+    }
+}
+@media(max-width:1200px) and (min-width:1000px){
+    .jasurbek0{
+        margin-left: 10%;
+    }
+    .div{
+        margin-left: 50%;
+        margin-top: 5%;
+    }
+    .svg{
+        margin-left: 52%;
+    }
+    .jasurbek5{
+        gap: 25%;
+        margin-left: 9%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .jasurbek2{
+        height: 120vh;
+    }
+    .divjon{
+        margin-left: 55%;
+    }
+    .divbek{
+        display: flex;
+        /* flex-wrap: wrap; */
+        width: 40%;
+        margin-left: 5%;
+        gap: 5%;
+        
+    }
+    .divoy{
+        margin-left: 10%;
+    }
+    .iph{
+        margin-top: -30%;
+        margin-left: 50%;
+    }
+    .buy{
+        margin-left: 15%;
+        gap: 20%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .jasurbek11{
+        height: 170vh
+    }
+    .yozuv{
+        margin-left: -50%;
+    }
+}
